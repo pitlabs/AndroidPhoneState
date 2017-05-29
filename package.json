@@ -17,7 +17,7 @@
 	"permission",
     "cordova",
     "ecosystem:cordova",
-    "cordova-android",
+    "cordova-android"
   ],
   "author": "IT Center, RWTH Aachen University",
   "license": "MIT"
