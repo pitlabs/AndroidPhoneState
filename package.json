@@ -1,0 +1,24 @@
+{
+  "name": "de.rwthaachen.rz.rwthapp.plugins.androidphonestate",
+  "version": "0.1.1",
+  "description": "Android Phone State Plugin",
+  "cordova": {
+    "id": "de.rwthaachen.rz.rwthapp.plugins.androidphonestate",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pitlabs/AndroidPhoneState"
+  },
+  "keywords": [
+	"READ_PHONE_STATE",
+	"permission",
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+  ],
+  "author": "IT Center, RWTH Aachen University",
+  "license": "MIT"
+}
